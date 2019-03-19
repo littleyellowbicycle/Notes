@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+	<head>
+		<title>常用html标签</title>
+	</head>
+	<body>
+		<outline text="常用html标签" _mubu_text="%E5%B8%B8%E7%94%A8html%E6%A0%87%E7%AD%BE">
+		<outline text="<body> 网页显示内容" _mubu_text="&amp;lt;body&amp;gt;%20%E7%BD%91%E9%A1%B5%E6%98%BE%E7%A4%BA%E5%86%85%E5%AE%B9">
+		</outline>
+		<outline text="<p> 段落" _mubu_text="&amp;lt;p&amp;gt;%20%E6%AE%B5%E8%90%BD">
+		</outline>
+		<outline text="<hx> 标题 1-6" _mubu_text="&amp;lt;hx&amp;gt;%20%E6%A0%87%E9%A2%98%201-6">
+		</outline>
+		<outline text="<strong>&amp;&amp;<em> 强调 加粗&amp;&amp;斜体" _mubu_text="&amp;lt;strong&amp;gt;&amp;amp;&amp;amp;&amp;lt;em&amp;gt;%20%E5%BC%BA%E8%B0%83%20%E5%8A%A0%E7%B2%97&amp;amp;&amp;amp;%E6%96%9C%E4%BD%93">
+		</outline>
+		<outline text="<span> 自定义格式" _mubu_text="&amp;lt;span&amp;gt;%20%E8%87%AA%E5%AE%9A%E4%B9%89%E6%A0%BC%E5%BC%8F">
+		</outline>
+		<outline text="<q> 引用短句" _mubu_text="&amp;lt;q&amp;gt;%20%E5%BC%95%E7%94%A8%E7%9F%AD%E5%8F%A5">
+		</outline>
+		<outline text="<blockquote> 引用长段落" _mubu_text="&amp;lt;blockquote&amp;gt;%20%E5%BC%95%E7%94%A8%E9%95%BF%E6%AE%B5%E8%90%BD">
+		</outline>
+		<outline text="<br/> 换行" _mubu_text="&amp;lt;br/&amp;gt;%20%E6%8D%A2%E8%A1%8C">
+		</outline>
+		<outline text="&amp;nbsp 空格" _mubu_text="&amp;amp;nbsp%20%E7%A9%BA%E6%A0%BC">
+		</outline>
+		<outline text="<hr/> 横线 空标签" _mubu_text="&amp;lt;hr/&amp;gt;%20%E6%A8%AA%E7%BA%BF%20%E7%A9%BA%E6%A0%87%E7%AD%BE">
+		</outline>
+		<outline text="<address> 地址 斜体" _mubu_text="&amp;lt;address&amp;gt;%20%E5%9C%B0%E5%9D%80%20%E6%96%9C%E4%BD%93">
+		</outline>
+		<outline text="<code> 一行代码" _mubu_text="&amp;lt;code&amp;gt;%20%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81">
+		</outline>
+		<outline text="<pre> 一段代码 在网页中预显示格式" _mubu_text="&amp;lt;pre&amp;gt;%20%E4%B8%80%E6%AE%B5%E4%BB%A3%E7%A0%81%20%E5%9C%A8%E7%BD%91%E9%A1%B5%E4%B8%AD%E9%A2%84%E6%98%BE%E7%A4%BA%E6%A0%BC%E5%BC%8F">
+		</outline>
+		<outline text="<ul><li> 无序号列表" _mubu_text="&amp;lt;ul&amp;gt;&amp;lt;li&amp;gt;%20%E6%97%A0%E5%BA%8F%E5%8F%B7%E5%88%97%E8%A1%A8">
+		</outline>
+		<outline text="<ol><li>有序号列表" _mubu_text="&amp;lt;ol&amp;gt;&amp;lt;li&amp;gt;%E6%9C%89%E5%BA%8F%E5%8F%B7%E5%88%97%E8%A1%A8">
+		</outline>
+		<outline text="<div>逻辑分组" _mubu_text="&amp;lt;div&amp;gt;%E9%80%BB%E8%BE%91%E5%88%86%E7%BB%84" _images="%5B%7B%22id%22%3A%222cf1691b1042850e9-2449270%22%2C%22uri%22%3A%22document_image%2F6dfd4c57-b8ea-40fa-9303-3f2f9ad6876c-2449270.jpg%22%2C%22ow%22%3A435%2C%22oh%22%3A198%7D%5D">
+		</outline>
+		<outline text="<table> " _mubu_text="&amp;lt;table&amp;gt;%20">
+		<outline text="summary=&quot;摘要&quot;" _mubu_text="summary=%22%E6%91%98%E8%A6%81%22">
+		</outline>
+		<outline text="<caption>表标题" _mubu_text="&amp;lt;caption&amp;gt;%E8%A1%A8%E6%A0%87%E9%A2%98">
+		</outline>
+		<outline text="<tbody>表预加载" _mubu_text="&amp;lt;tbody&amp;gt;%E8%A1%A8%E9%A2%84%E5%8A%A0%E8%BD%BD">
+		</outline>
+		<outline text="<tr>表行" _mubu_text="&amp;lt;tr&amp;gt;%E8%A1%A8%E8%A1%8C">
+		</outline>
+		<outline text="<td>表单元格" _mubu_text="&amp;lt;td&amp;gt;%E8%A1%A8%E5%8D%95%E5%85%83%E6%A0%BC">
+		</outline>
+		<outline text="<th>表格表头" _mubu_text="&amp;lt;th&amp;gt;%E8%A1%A8%E6%A0%BC%E8%A1%A8%E5%A4%B4">
+		</outline>
+		</outline>
+		<outline text="<style>" _mubu_text="&amp;lt;style&amp;gt;">
+		</outline>
+		<outline text="<a> " _mubu_text="&amp;lt;a&amp;gt;%20" _images="%5B%7B%22id%22%3A%221ff1691b13f315105-2449270%22%2C%22uri%22%3A%22document_image%2F4de894ea-d674-4849-b025-916d78c24218-2449270.jpg%22%2C%22ow%22%3A445%2C%22oh%22%3A65%7D%5D">
+		<outline text="href=&quot;目标网址&quot;  " _mubu_text="href=%22%E7%9B%AE%E6%A0%87%E7%BD%91%E5%9D%80%22%20%20">
+		</outline>
+		<outline text="title=&quot;鼠标滑过显示的文本&quot;" _mubu_text="title=%22%E9%BC%A0%E6%A0%87%E6%BB%91%E8%BF%87%E6%98%BE%E7%A4%BA%E7%9A%84%E6%96%87%E6%9C%AC%22">
+		</outline>
+		<outline text="target=&quot;_blank&quot; 在新窗口打开，实例在新标签页开" _mubu_text="target=%22_blank%22%20%E5%9C%A8%E6%96%B0%E7%AA%97%E5%8F%A3%E6%89%93%E5%BC%80%EF%BC%8C%E5%AE%9E%E4%BE%8B%E5%9C%A8%E6%96%B0%E6%A0%87%E7%AD%BE%E9%A1%B5%E5%BC%80">
+		</outline>
+		<outline text="邮件链接" _mubu_text="%E9%82%AE%E4%BB%B6%E9%93%BE%E6%8E%A5" _images="%5B%7B%22id%22%3A%221b61691b17abeb0b8-2449270%22%2C%22uri%22%3A%22document_image%2Ff27c728b-6b23-4bc4-89e9-ff73f14d0e54-2449270.jpg%22%2C%22ow%22%3A991%2C%22oh%22%3A75%7D%5D">
+		<outline text="参数表" _mubu_text="%E5%8F%82%E6%95%B0%E8%A1%A8" _images="%5B%7B%22id%22%3A%223b01691b1817bd068-2449270%22%2C%22uri%22%3A%22document_image%2F722b827d-3037-4877-a640-118e733acd16-2449270.jpg%22%2C%22ow%22%3A1736%2C%22oh%22%3A664%7D%5D">
+		</outline>
+		</outline>
+		</outline>
+		<outline text="<image>" _mubu_text="&amp;lt;image&amp;gt;" _images="%5B%7B%22id%22%3A%22461691b1ac6e0069-2449270%22%2C%22uri%22%3A%22document_image%2F7fe0eb18-27e4-4f09-a53f-f6b8ded3cced-2449270.jpg%22%2C%22ow%22%3A446%2C%22oh%22%3A53%7D%5D">
+		<outline text="src 图片地址" _mubu_text="src%20%E5%9B%BE%E7%89%87%E5%9C%B0%E5%9D%80">
+		</outline>
+		<outline text="alt 备用文本" _mubu_text="alt%20%E5%A4%87%E7%94%A8%E6%96%87%E6%9C%AC">
+		</outline>
+		<outline text="title 提示文本" _mubu_text="title%20%E6%8F%90%E7%A4%BA%E6%96%87%E6%9C%AC">
+		</outline>
+		</outline>
+		</outline>
+	</body>
+</opml>
